@@ -2,16 +2,30 @@
 
 A mini e-commerce application built with Rails 4.2.
 
-The following features were included :
+```The following features were included :```
 
 * login/signup with basic authentication
-* valid credentials for admin to view the product and categories
+* credentials for admin to view the product and categories
 * admin is able to generate new categories
 
 
 ## Screenshots
+!["view-site"](https://github.com/gforsythe/jungle/blob/master/docs/View-Accounts.png?raw=true)
+
+!["My-Cart"](https://github.com/gforsythe/jungle/blob/master/docs/My-Cart.png?raw=true)
 
 
+!["Pay-Order"](https://github.com/gforsythe/jungle/blob/master/docs/Pay-Order.png?raw=true)
+
+!["completed-order"](https://github.com/gforsythe/jungle/blob/master/docs/completed-order.png?raw=true)
+
+!["sold-out-badge"](https://github.com/gforsythe/jungle/blob/master/docs/soldout-badge.png?raw=true)
+
+!["admin-dashboard"](https://github.com/gforsythe/jungle/blob/master/docs/Admin-Dashboard.png?raw=true)
+
+!["admin-categories"](https://github.com/gforsythe/jungle/blob/master/docs/Admin-Categories.png?raw=true)
+
+!["admin-products"](https://github.com/gforsythe/jungle/blob/master/docs/Admin-All-Products.png?raw=true)
 
 ## Setup
 
